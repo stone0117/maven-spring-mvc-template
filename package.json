@@ -1,0 +1,23 @@
+{
+  "name": "maven-spring-mvc-template",
+  "version": "1.0.0",
+  "description": "maven-spring-mvc-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stone0117/maven-spring-mvc-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stone0117/maven-spring-mvc-template/issues"
+  },
+  "homepage": "https://github.com/stone0117/maven-spring-mvc-template#readme",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
